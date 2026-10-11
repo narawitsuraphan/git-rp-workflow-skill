@@ -1,4 +1,4 @@
-# Git & RP Workflow: Git and Roleplay Skill for Codex
+# Git & RP Workflow
 
 An installable Codex skill for Git and GitHub workflows, including pull requests, roleplay (RP) repositories, release planning, and recovery from common Git mistakes. It gives Codex reusable guidance for safer repository work.
 
